@@ -1,7 +1,7 @@
 # esp32_chargerbot
 ESP32-S3 wheeled robot with IMU-based heading correction and time-of-flight collision avoidance that docks and wirelessly charges a custom open-source smartwatch. Custom PCB, Qi wireless charging, differential-drive servo mobility. Node 1 of a larger open-source privacy-first ecosystem.
 
-Part 1 of an open-source privacy-first AI smartwatch project.
+Part 1 of an open-source privacy-first smartwatch project.
 
 ## Status
 Early build — schematic design in progress (USB-C + power regulation block wired, ERC clean). Not yet at PCB layout, firmware, or chassis stages.
