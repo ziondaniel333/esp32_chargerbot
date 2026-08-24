@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "esp32_humanoid.kicad_pro",
+    "filename": "esp32_chargerbot.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -411,18 +411,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "esp32_humanoid.kicad_sch",
-        "name": "esp32_humanoid",
+        "filename": "esp32_chargerbot.kicad_sch",
+        "name": "esp32_chargerbot",
         "uuid": "c88178a8-d358-4543-a867-204332c5a9cb"
       }
     ],
-    "used_designators": "#FLG1-2,R1-3,J1,U1-2,#PWR1-8,C1-3",
+    "used_designators": "#FLG1-2,R1-6,J1,U1-4,#PWR1-8,C1-6,SW1-2",
     "variants": []
   },
   "sheets": [
     [
       "c88178a8-d358-4543-a867-204332c5a9cb",
-      "esp32_humanoid"
+      "esp32_chargerbot"
     ]
   ],
   "text_variables": {},
